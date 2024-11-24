@@ -54,9 +54,11 @@ Summary
 4.	Number of defaulted loans is $5,627.
 5.	Number of active loans is $1,140.
 6.	The summary visual shows the loan funded by purpose and the coverage region of the loan across the United States of America. 
+![Summary (first visual)](https://github.com/user-attachments/assets/73a99cef-dd7b-423b-b6ee-665746a1f6ee)
 
 ## Chart 1 
 The figure below shows the loan funded by the purpose for which the loan was requested.
+![chart 1](https://github.com/user-attachments/assets/f60ffcf2-38ff-499d-a13d-519bab22eee7)
 
 The chart revealed that the highest reason why people apply for the loan is DEBT CONSOLIDATION. The margin it has to the next purpose is times three. The next purpose is for credit card. 
 
@@ -70,6 +72,7 @@ In this dashboard, we analysed the following;
 3.	Average number of years of experience by loan term.
 4.	Sum of loan granted by credit score.
 5.	Average interest rate by credit score. 
+![Risk Analysis](https://github.com/user-attachments/assets/2d36e42b-cd60-4352-8136-4d5b19ca6211)
 
 # Chart 3
 The figure below shows **value of funded loan**.
@@ -82,6 +85,7 @@ In this dashboard, we analysed the following;
 4.	Sum of funded loan by loan status. 
 5.	Sum of funded loan by Debt to income (DTI) category.
 6.	Sum of loan given by house ownership.
+![Risk Analysis 2](https://github.com/user-attachments/assets/43d9b7a5-f7c8-464e-9fff-c8f3fbfc482a)
 
 ## Risk Analysis III
 In this dashboard, we analysed the following;
@@ -91,6 +95,7 @@ In this dashboard, we analysed the following;
 4.	Sum of funded loan by loan status. 
 5.	Average outstanding payment by Debt to income (DTI) category.
 6.	Average principal not recovered. 
+![Risk Analysis 3](https://github.com/user-attachments/assets/bff7f548-5fe4-45b9-82b8-2fa585df95da)
 
 ## Loan performance
 They recovered 80% of their loan. 
