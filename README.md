@@ -92,4 +92,11 @@ In this dashboard, we analysed the following;
 5.	Average outstanding payment by Debt to income (DTI) category.
 6.	Average principal not recovered. 
 
+## Loan performance
+They recovered 80% of their loan
+
+## Growth
+The company had a steady growth rate between 2007-2011. The number of customers in 2007 was 251, then 1562 in 2008, 
+Default rate and performance rate
+The default rate reduced over the years
 
