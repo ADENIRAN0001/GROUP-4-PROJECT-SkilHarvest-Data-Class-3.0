@@ -33,5 +33,29 @@ Due ot the peculiarity of the selected Dataset, it was important for us of have 
 
 ### Data analysis tools 
 - Microsoft Excel
-- Google Sheet
 - Microsoft Power BI
+
+### METHODOLOGY
+
+1.	The Dataset were through a thorough cleaning ang wrangling process using the appropriate data cleaning functions. This was done on Microsoft Excel.
+2.	Calculations such as percentage, interest rate etc was carried out.
+3.	New columns were created to give a better understanding of the Dataset.
+4.	Some queries were carried out to find out some important trends and patterns in the Dataset.
+5.	The Dataset was transformed in Microsoft Power BI.
+6.	We checked for the column distribution as well as any empty row. Every column was checked and consistency was ensured.
+7.	The Dataset was then uploaded in the Microsoft Power BI for visualization. 
+8.	Measures and different visuals were generated to gain insight about the data.
+9.	The visuals are divided into four (4) parts namely, summary, risk analysis I. Risk analysis II and risk analysis III.
+
+### INSIGHT
+Summary
+1.	The total amount of loan issued out between the 2007-2011 is $434,810,325
+2.	The total number of borrowers is $39,717.
+3.	Number of fully paid loans is $32,950.
+4.	Number of defaulted loans is $5,627.
+5.	Number of active loans is $1,140.
+6.	The summary visual shows the loan funded by purpose and the coverage region of the loan across the United States of America. 
+Chart 1 
+The figure below shows the loan funded by the purpose for which the loan was requested.
+
+
