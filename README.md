@@ -13,11 +13,11 @@ Mr. TEMIDAYO (TEEDEE)
 
 ### Project Overview
 ### Selection of Dataset  
-### Understanding the dataset
-### Data cleaning 
-### Data analysis tools 
+### Understanding the dataset 
+### Data cleaning tool 
 ### Methodology 
-### Modelling and results 
+### Data analysis and results 
+### Recommendations
 ### Conclusion 
 
 ### PROJECT OVERVIEW 
