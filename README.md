@@ -55,12 +55,12 @@ Summary
 5.	Number of active loans is $1,140.
 6.	The summary visual shows the loan funded by purpose and the coverage region of the loan across the United States of America. 
 
-# Chart 1 
+## Chart 1 
 The figure below shows the loan funded by the purpose for which the loan was requested.
 
 The chart revealed that the highest reason why people apply for the loan is DEBT CONSOLIDATION. The margin it has to the next purpose is times three. The next purpose is for credit card. 
 
-# Chart 2
+## Chart 2
 The figure below shows the loan and the regions in the United States of America. California is the region where the company has the highest number of customers. 
 
 ## Risk Analysis I
