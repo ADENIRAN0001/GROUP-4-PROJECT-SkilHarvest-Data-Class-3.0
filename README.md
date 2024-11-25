@@ -21,8 +21,8 @@ Mr. TEMIDAYO (TEEDEE)
 ## [Chart 1](#chart-1)
 ## [Chart 2](#chart-2)
 ## [Chart 3](#chart-3)
-## Recommendations
-## Conclusion 
+## [Recommendations](#Recommendations)
+## [Conclusion](#Conclusion)
 
 ### Project Overview
 Our team is made up of five (5) seasoned Data Analyst who are motivated to use the knowledge acquired in the course of the training to analyse data and generate insights that will surely move the organization to the desired level through Data-Driven decisions. We worked on a finance data which was titled **USA APPROVED LOAN DATA**. The data was obtained from Kaggle DataSet. The Data went through the extract, transform and loading (ETL).  
