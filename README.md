@@ -11,16 +11,20 @@
 ### DATA INSTRUCTOR
 Mr. TEMIDAYO (TEEDEE)
 
-### Project Overview
-### Selection of Dataset  
-### Understanding the dataset 
-### Data cleaning tool 
-### Methodology 
-### Data analysis and results 
-### Recommendations
-### Conclusion 
+## TABLE CONTENT 
+## [Project Overview](#project-overview)
+## [Selection of Dataset](#selection-of-dataset)  
+## [Understanding the dataset](#understanding-the-dataset) 
+## [Data cleaning tool](#data-cleaning-tool)
+## [Methodology](#methodology) 
+## [Data Analysis](#data-analysis)
+## [Chart 1](#chart-1)
+## [Chart 2](#chart-2)
+## [Chart 3](#chart-3)
+## Recommendations
+## Conclusion 
 
-### PROJECT OVERVIEW 
+### Project Overview
 Our team is made up of five (5) seasoned Data Analyst who are motivated to use the knowledge acquired in the course of the training to analyse data and generate insights that will surely move the organization to the desired level through Data-Driven decisions. We worked on a finance data which was titled **USA APPROVED LOAN DATA**. The data was obtained from Kaggle DataSet. The Data went through the extract, transform and loading (ETL).  
 
 ### Selection of Dataset 
@@ -34,7 +38,7 @@ Due to the peculiarity of the selected Dataset, it was important for us of have 
 - Microsoft Excel
 - Microsoft Power BI
 
-### METHODOLOGY
+### Methodology
 
 1.	The Dataset went through a thorough cleaning and wrangling process using the appropriate data cleaning functions. This was done on Microsoft Excel.
 2.	Calculations such as percentage, interest rate etc was carried out.
@@ -46,7 +50,7 @@ Due to the peculiarity of the selected Dataset, it was important for us of have 
 8.	Measures and different visuals were generated to gain insight about the data.
 9.	The visuals are divided into four (4) parts namely, summary, risk analysis I. Risk analysis II and risk analysis III.
 
-### DATA ANALYSIS
+### Data Analysis
 **Summary**
 1.	The total amount of loan issued out between the 2007-2011 is $434,810,325
 2.	The total number of borrowers is $39,717.
