@@ -27,7 +27,7 @@ Our team is made up of five (5) seasoned Data Analyst who are motivated to use t
 The data was obtained from Kaggle DataSet after a cross examination of different datasets suggested by each member of the team. We eventually picked the USA APPROVED LOAN DATA because it require us to use all the Data Analysis toolkits we have een taught and we will be able to generate Data-driven suggestions for existing loan companies, those who are planning to venture into the business and for potential borrowers (loan takers).  
 
 ### Understanding the dataset
-Due ot the peculiarity of the selected Dataset, it was important for us of have the correct understanding of what the data is all about. This will hlp us to properly explore the data and not give a wrong interpretation and visualization of the data. We had to study financial and accounting termilogies to aid our exploration of the dataset. We also took out a good amount of time to study the Dataset dictionary and each of the columns in Dataset. 
+Due to the peculiarity of the selected Dataset, it was important for us of have the correct understanding of what the data is all about. This will hlp us to properly explore the data and not give a wrong interpretation and visualization of the data. We had to study financial and accounting termilogies to aid our exploration of the dataset. We also took out a good amount of time to study the Dataset dictionary and each of the columns in Dataset. 
 
 ### Data cleaning Tools
 
@@ -36,7 +36,7 @@ Due ot the peculiarity of the selected Dataset, it was important for us of have 
 
 ### METHODOLOGY
 
-1.	The Dataset were through a thorough cleaning ang wrangling process using the appropriate data cleaning functions. This was done on Microsoft Excel.
+1.	The Dataset went through a thorough cleaning and wrangling process using the appropriate data cleaning functions. This was done on Microsoft Excel.
 2.	Calculations such as percentage, interest rate etc was carried out.
 3.	New columns were created to give a better understanding of the Dataset.
 4.	Some queries were carried out to find out some important trends and patterns in the Dataset.
